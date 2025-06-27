@@ -40,6 +40,6 @@ The dataset used in this project contains information about customer transaction
 |-- data/
 | |-- dataset.csv
 | |-- analysis.ipynb
-|-- images/
+|-- images/https://github.com/deemisofficial/python-data-analysis-project/blob/main/Maximum%20sales%20sector.png
 | |-- charts.png
 |-- README.md

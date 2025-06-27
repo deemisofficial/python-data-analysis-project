@@ -1,6 +1,4 @@
-# python-data-analysis-project
-A Python project for exploratory data analysis using Pandas, Seaborn, and Matplotlib on real-world datasets.
-# Python Data Analysis Project
+# python-data-analysis-project - A Python project for exploratory data analysis using Pandas, Seaborn, and Matplotlib on real-world datasets.
 
 ## 📌 Project Overview
 This project showcases end-to-end **data analysis using Python** on a real-world dataset. It includes **data cleaning, exploratory data analysis (EDA), visualizations**, and insights derived from the data.
@@ -12,8 +10,6 @@ This project showcases end-to-end **data analysis using Python** on a real-world
 
 ## 📂 Dataset
 The dataset used in this project contains information about customer transactions/ sales/ orders etc.
-
-**Source**: [Mention source if available (e.g., Kaggle, internal, simulated)]
 
 ## 🛠️ Tools & Technologies
 - Python

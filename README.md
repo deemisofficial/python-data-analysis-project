@@ -44,4 +44,4 @@ The dataset used in this project contains information about customer transaction
 | |-- Expense Chart/Sector Wise Expenses.png
 |-- README/README.md
 
-![Dashboard Screenshot](Maximum sales sector.png)
+![Dashboard Screenshot](Maximum_sales_sector_visuals.png)

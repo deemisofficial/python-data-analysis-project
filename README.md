@@ -37,9 +37,9 @@ The dataset used in this project contains information about customer transaction
 - Customer behavior segmentation
 
 ## 📌 Folder Structure
-|-- data/
-| |-- dataset.csv
-| |-- analysis.ipynb
-|-- images/https://github.com/deemisofficial/python-data-analysis-project/blob/main/Maximum%20sales%20sector.png
-| |-- charts.png
-|-- README.md
+|-- data/Well_Structured_Data_Over_The_VSCode.ipynb
+| |-- dataset/Customer Sales Data.csv
+| |-- analysis/pythonprog1.ipynb
+|-- Sectoral Graph/Sector wise graph.png
+| |-- Expense Chart/Sector Wise Expenses.png
+|-- README/README.md
